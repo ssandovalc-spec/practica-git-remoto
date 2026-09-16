@@ -1,2 +1,1 @@
 # Practica Git
-Repasar apuntes
